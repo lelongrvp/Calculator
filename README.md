@@ -1,2 +1,2 @@
-# Android-Apps
-- Just a collection of my application during the course Mobile Programming at Hanoi University
+# Calculator
+- A quickly implemented Calculator. Just some basic math operation, nothing too special.
